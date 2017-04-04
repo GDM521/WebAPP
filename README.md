@@ -1,2 +1,0 @@
-# WebAPP
-Just for exercise
